@@ -154,4 +154,18 @@ header {
     .header__wrapper .main-menu {
         flex-direction: column;
     }
+
+    .header__wrapper .logo {
+        width: 50%;
+    }
+
+    .destinations__wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .destinations__wrapper .destination {
+        width: 100%;
+    }
+
 }
